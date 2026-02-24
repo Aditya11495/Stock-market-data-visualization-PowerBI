@@ -7,7 +7,7 @@ This project presents an interactive Stock Market Data Visualization Dashboard b
 
 The goal of this project is to demonstrate strong data analysis, visualization, and business intelligence skills using Power BI.
 
-🎯 Objectives
+ **Objectives**
 
 Analyze historical stock price data
 
