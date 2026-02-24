@@ -53,21 +53,21 @@ Data Modeling
 
 **Dashboard Features**
 
-📈 Stock Price Trend Line Chart
+Stock Price Trend Line Chart
 
-📊 Volume Analysis Bar Chart
+Volume Analysis Bar Chart
 
-📉 High vs Low Comparison
+High vs Low Comparison
 
-📅 Date Slicer for Dynamic Filtering
+Date Slicer for Dynamic Filtering
 
-📌 KPI Cards (Latest Close Price, Average Price, Total Volume)
+KPI Cards (Latest Close Price, Average Price, Total Volume)
 
-📊 Moving Average Visualization
+Moving Average Visualization
 
-🔄 Interactive Filters & Drill-down
+Interactive Filters & Drill-down
 
-📊 Key Insights Generated
+Key Insights Generated
 
 Identified bullish and bearish trends
 
@@ -77,11 +77,11 @@ Compared trading volume spikes with price changes
 
 Evaluated stock performance over time
 
-📷 Dashboard Preview
+**Dashboard Preview**
 
 (Add screenshots of your Power BI dashboard here)
 
-🚀 Business Value
+**Business Value**
 
 This dashboard helps:
 
