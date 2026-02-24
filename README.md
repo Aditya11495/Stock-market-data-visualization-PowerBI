@@ -21,7 +21,7 @@ Detect volatility patterns
 
 Provide actionable financial insights
 
-📂 Dataset Features
+**Dataset Features**
 
 Typical dataset includes:
 
@@ -39,7 +39,7 @@ Adjusted Close
 
 Volume
 
-🛠 Tools & Technologies Used
+**Tools & Technologies Used**
 
 Power BI
 
@@ -51,7 +51,7 @@ Excel / CSV dataset
 
 Data Modeling
 
-📊 Dashboard Features
+**Dashboard Features**
 
 📈 Stock Price Trend Line Chart
 
